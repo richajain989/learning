@@ -27,4 +27,4 @@ for(i=1; i<=10; i++){
   console.log(y,"*",i,"=" ,x);
 }
 }
-loop(5)
+//loop(5)
