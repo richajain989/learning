@@ -52,8 +52,8 @@ if(m==0){
 else{
     console.log(p)
 }
-//console.log(p);
 }
+
 divd(16,4)
 divd(35,7)
 divd(12,0)
