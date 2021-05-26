@@ -33,8 +33,8 @@
 // Expected Output : 'abeemrstw'
 // Assume punctuation and numbers symbols are not included in the passed string.
 
-function strsort(str){
-return str.split("").sort().join("");
-}
-console.log(strsort("webmaster"));
+// function strsort(str){
+// return str.split("").sort().join("");
+// }
+// console.log(strsort("webmaster"));
 

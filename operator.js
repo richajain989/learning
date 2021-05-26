@@ -70,6 +70,27 @@ print "enter the value greater than 0"*/
 // }
 // power(2,5)
 
-// needs two value
+
 // 2 ki power 5
-// print
+// var a = 2;
+// var b = 5;
+// var c = a**b;
+// console.log(c);
+
+//power with function
+// function power(a,b){
+// var c=a**b;
+// console.log(c)
+// }
+// power(2,4)
+
+//power with defined function math pow
+
+
+console.log(Math.pow(2,3));
+var c = 2;
+var d = 3;
+var e = Math.pow(c,d);
+console.log(c);
+
+

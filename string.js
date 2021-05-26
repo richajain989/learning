@@ -16,8 +16,10 @@
 // console.log("hello " +name1+ " you have " +count+ " vowels");
 
 
+
+
 //ek string me kitne r and a hai
-//count of r
+//count of r\\\\\
 //count of a
 // string k pahle character se leke last tak loop chalu karo
     //chk the cndition-string me R hai
@@ -66,7 +68,4 @@
 //
 
 
-var sorted = [3, 1, 6, 2].sort(); // sort ascending  
-var sorted = [3, 1, 6, 2].sort(function(a, b){
-    return b - a;
-});
+console.log("Kshitij");
