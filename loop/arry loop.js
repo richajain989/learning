@@ -1,8 +1,7 @@
-// var fruits = ["Apple", "Banana", "Orange"];
-// for(var i=0; i<=2; i++){
-//      console.log(fruits[i])
-
-// }
+var fruits = ["Apple", "Banana", "Orange"];
+for(var i=0; i<=2; i++){
+     console.log(fruits[i])
+}
 
 // var fruits = ["Apple", "Banana", "Orange"];
 // for (x of fruits) {
@@ -29,5 +28,5 @@
 //copyWithin()
 //Copy the first two array elements to the last two array elements:
 
-var a= ["richa","kashvi","kshitij","sahil"];
-console.log(a.copyWithin(3,0));
+// var a= ["richa","kashvi","kshitij","sahil"];
+// console.log(a.copyWithin(3,0));

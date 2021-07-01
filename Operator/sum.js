@@ -1,5 +1,5 @@
 //Create a function which accepts three arguments
-//In case all these passes arguments are 0 then print message "Please provide some valida positive value"
+//In case all these passes arguments are 0 then print message "Please provide some valid positive value"
 //otherwise just add these numbers and print the value
 
 

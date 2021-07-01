@@ -61,4 +61,15 @@
 // console.log("this is \ backslash"); // this is  backslsh
 // console.log("this is \\ backslash"); //this is \ backslash
 
+//Number()it shows no.only if u type like string in no.and is u type string then it shows NAN
+// var a = 10;
+// var b = "20";
+// var c = "   30";
+// var d = "richa";
+// console.log(Number(a));//10
+// console.log(Number(b));//20
+// console.log(Number(c));//30
+// console.log(Number(d));//NAN
 
+var a = Number.MIN_VALUE;
+console.log(a);
