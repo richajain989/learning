@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   
+    <section id="craig-shoemaker" class="card">
+        <h2>CRAIG SHOEMAKER</h2>
+        <ul>
+            <li><a href="https://twitter.com/craigshoemaker" class="tag"> Twitter</a></li>
+            <li><a href="https://github.com/craigshoemaker" class="tag">GitHub</a></li>
+        </ul>
+    </section>
+    <section id="John_papa" class="card">
+        <h2>JOHN PAPA</h2>
+        <ul>
+            <li><a href="https://twitter.com/john_papa" class="tag">Twitter</a></li>
+            <li><a href="https://github.com/johnpapa" class="tag">Github</a></li>
+        </ul>
+    </section>
+    <script>
+        let links = document.querySelectorAll(".tag");
+        
+         links.forEach(function(link) {
+           link.setAttribute("target","_blank");
+        });
+    </script>
+</body>
+</html>
